@@ -1,5 +1,7 @@
 # Among Us Prop Hunt Mod For Android (From android version 5 to 10 is compatible. Android version 11 _--may--_ not work)
 
+# KEEP IN MIND :- dl means download, dling means downloading
+
 I made this page to make it easier for you all to download and play Among Us Prop Hunt Mod. Simply follow instructions and you will be good to go.
 
 Now i know that exams are coming soon, but still i thought i would share this here coz i am bored of normal among us and hide & seek. So i found this and tested this and it worked flawlessly.
