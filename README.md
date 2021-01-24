@@ -1,4 +1,4 @@
-# Among Us Prop Hunt Mod For Android (From android version 5 to 10 is compatible. Android 11 ~may~ not work)
+# Among Us Prop Hunt Mod For Android (From android version 5 to 10 is compatible. Android 11 _may_ not work)
 
 I made this page to make it easier for you all to download and play Among Us Prop Hunt Mod. Simply follow instructions and you will be good to go.
 
