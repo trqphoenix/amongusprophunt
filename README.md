@@ -1,6 +1,6 @@
 # Among Us Prop Hunt Mod For Android (From android version 5 to 10 is compatible. Android version 11 _--may--_ not work)
 
-## _KEEP IN MIND :- dl means download, dling means downloading_
+## _KEEP IN MIND :- dl means download, dling means downloading and dled means downloaded_
 
 I made this page to make it easier for you all to download and play Among Us Prop Hunt Mod. Simply follow instructions and you will be good to go.
 
@@ -16,7 +16,7 @@ We need this for the main among us app. So first uninstall your among us. Then d
 
 http://www.mediafire.com/file/sfj30r47w2bspoz/Prop+Hunt+v1.5+Among+Us_2020.11.17.apk/file
 
-#### 2. After downloading (dl'ing), go to Downloads in chrome and tap the downloaded apk to install. If it says Something security blabla, then simply follow what it says and allow the permission to install. Then go back and click install.
+#### 2. After dling, go to Downloads in chrome and tap the dled apk to install. If it says Something security blabla, then simply follow what it says and allow the permission to install. Then go back and click install.
 
 #### 3. Now we need to download the app that controls the prop hunt game. So now dl (download) the apk for skeld.net switcher. We need this to control the game with props, very imp.
 
