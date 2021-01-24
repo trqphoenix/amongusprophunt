@@ -1,4 +1,4 @@
-# Among Us Prop Hunt Mod For Android (From android version 5 to 10 is compatible. Android 11 _may_ not work)
+# Among Us Prop Hunt Mod For Android (From android version 5 to 10 is compatible. Android 11 _--may--_ not work)
 
 I made this page to make it easier for you all to download and play Among Us Prop Hunt Mod. Simply follow instructions and you will be good to go.
 
@@ -20,6 +20,6 @@ http://www.mediafire.com/file/sfj30r47w2bspoz/Prop+Hunt+v1.5+Among+Us_2020.11.17
 
 https://cdn.discordapp.com/attachments/424377924586831881/784301732309893130/Skeld.net_switcher_ultimate.apk
 
-#### 4. This FOR THOSE WHO ARE AMONG US ROOM HOST Open skeld.net switcher and switch to skeld.net switcher. Restart game, make a lobby and type "/hidenames true" in ingame chat to hide names( names will hide in game, not lobby). Invite your friends who are also using same mod.
+#### 4. _--This FOR THOSE WHO ARE AMONG US ROOM HOST.--_ Open skeld.net switcher and switch to skeld.net switcher. Restart game, make a lobby and type "/hidenames true" in ingame chat to hide names( names will hide in game, not lobby). Invite your friends who are also using same mod.
 
 
